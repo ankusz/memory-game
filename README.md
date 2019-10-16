@@ -1,3 +1,3 @@
 # memory-game
 
-Mmeoty game, created using JavaScript
+Memory game, created using JavaScript
